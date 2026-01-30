@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\E-Mach_Food-service.props" />
+</Project>
