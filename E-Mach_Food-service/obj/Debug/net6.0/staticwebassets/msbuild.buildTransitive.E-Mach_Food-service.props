@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\E-Mach_Food-service.props" />
-</Project>
